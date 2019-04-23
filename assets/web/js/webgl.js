@@ -22,7 +22,7 @@ var isMobile = {
 var BTG = {
     App: function () {
         var isDebugMode = true;
-        var path = '_res/web/model/';
+        var path = 'assets/web/model/';
         var camera, scene, renderer, controls, request, textureObj = {};
         var windowHalfX, windowHalfY, mouseX=0, mouseY=0;
         var OBJ;
