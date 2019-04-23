@@ -1,5 +1,5 @@
 # btg
 battle ground webgl prototype test
 
-[test link](http://dev.does.kr/ateam/zt/webgl/btg/)
+[test link](https://tszoo.github.io/btg/)
 
