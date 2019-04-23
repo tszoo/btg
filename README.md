@@ -1,2 +1,5 @@
 # btg
-battle ground webgl proto
+battle ground webgl prototype test
+
+[test link](https://tszoo.github.io/btg/)
+
