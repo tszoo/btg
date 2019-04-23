@@ -1,0 +1,26 @@
+/* Reset */
+html,body{width:100%;}
+html{font-size:10px}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,form,fieldset,p,button{margin:0;padding:0}
+body,h1,h2,h3,h4,input,button{font-family:'돋움',Dotum,Helvetica,sans-serif;font-size:12px;}
+body{background-color:#fff;text-align:left;*word-break:break-all;-ms-word-break:break-all}
+img,fieldset,iframe{border:0 none}
+li{list-style:none}
+input,select,button{vertical-align:middle}
+img{vertical-align:top;}
+i,em,address{font-style:normal}
+button{cursor:pointer}
+button{margin:0;padding:0}
+
+button *{position:relative}
+button img{left:-3px;*left:auto}
+html:first-child select{height:20px;padding-right:6px}
+option{padding-right:6px}
+hr{display:none}
+legend{*width:0}
+table{border-collapse:collapse;border-spacing:0}
+html, body {height:100% }
+.ir_text {text-indent: -9999px;overflow: hidden;font-size: 0 ;height: 0;}
+
+body{background-color:#ffffff;width:100%;height:100%;overflow: hidden;max-width: 1920px;min-width: 1200px;text-align: center;margin: 0 auto;}
+#webgl_container{width:100%;height:100%;background-color: #cccccc;}
